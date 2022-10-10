@@ -4,6 +4,7 @@ Reverse a Stack
 
 You have been given two stacks that can store integers as the data. Out of the two given stacks, one is populated and the other one is empty.
 You are required to write a function that reverses the populated stack using the one which is empty.
+
 Input Format :
 The first line of input contains an integer N, denoting the total number of elements in the stack.
 
